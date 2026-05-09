@@ -2,6 +2,8 @@ HW/dataset
 *.csv
 *.zip
 
+HW/datamart
+HW/output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
